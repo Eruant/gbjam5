@@ -8,11 +8,10 @@
     "watch": "./build.sh watch"
   },
   "devDependencies": {
-    "babel-preset-es2015-rollup": "1.2.0",
     "browser-sync": "2.14.0",
+    "lb-loop": "1.0.0",
+    "lb-screen-factory": "1.0.0",
     "nodemon": "1.10.0",
-    "pug-cli": "1.0.0-alpha6",
-    "rollup": "0.34.8",
-    "rollup-plugin-babel": "2.6.1"
+    "pug-cli": "1.0.0-alpha6"
   }
 }
